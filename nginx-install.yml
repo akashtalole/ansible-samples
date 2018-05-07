@@ -1,5 +1,5 @@
 ---
-- hosts: 10.10.121.246
+- hosts: 10.10.121.110,10.10.121.246
   tasks:
 
   - name: Setting up nginx repository
