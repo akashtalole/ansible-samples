@@ -1,5 +1,5 @@
 - name: Hello World Sample
-  hosts: 172.16.2.246
+  hosts: 10.10.121.246
   tasks:
     - name: Hello Message
       debug:
